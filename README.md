@@ -17,4 +17,4 @@
 
 ### Installation
 
-![Packages](hackathon/FirmaYonetimServisi/FirmaYonetimServisi/packages.png?raw=true "Title")
+![Packages](FirmaYonetimServisi/FirmaYonetimServisi/packages.png?raw=true "Title")
