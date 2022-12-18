@@ -16,6 +16,6 @@
 - Repository Design Pattern
 
 ### Installation
-Gerekli Paketler NuGet Paket Yükleyicisi ile kuruldu
+- Gerekli Paketler NuGet Paket Yükleyicisi ile kuruldu
 
 ![Packages](FirmaYonetimServisi/FirmaYonetimServisi/packages.png?raw=true "Title")
