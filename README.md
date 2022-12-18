@@ -15,7 +15,7 @@
 - Entity Framework Code First
 - Repository Design Pattern
 
-### Installation
+### Gerekli Paketler
 - Gerekli Paketler NuGet Paket Yükleyicisi ile kuruldu
 
 ![Packages](FirmaYonetimServisi/FirmaYonetimServisi/packages.png?raw=true "Title")
